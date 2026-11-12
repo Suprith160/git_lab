@@ -1,9 +1,3 @@
 my second git lab
 hello
-i am in gcem
-
-
-
-
-
-.
+i am in cse
